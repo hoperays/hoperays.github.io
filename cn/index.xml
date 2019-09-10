@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>成启亮的博客</title>
+    <link>https://blog.hoperays.me/cn/</link>
+    <description>Recent content on 成启亮的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jul 2019 23:39:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hoperays.me/cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>https://blog.hoperays.me/cn/posts/my-first-post/</link>
+      <pubDate>Wed, 31 Jul 2019 23:39:16 +0800</pubDate>
+      
+      <guid>https://blog.hoperays.me/cn/posts/my-first-post/</guid>
+      <description> 我的第一篇文章
+ </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://blog.hoperays.me/cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hoperays.me/cn/about/</guid>
+      <description>| 关于我  本科软件工程，作码农五年有余，熟悉 OpenStack、Ceph、Kubernetes、Docker、EFK、Prometheus、Zabbix 等开源技术，目前致力于日志、监控、告警相关的后端研发工作。
+我的邮箱：qiliang.cheng@gmail.com 欢迎发信交流。
+GitHub 图表：
+| 关于网站 此网站为个人博客，基于 Hugo 构建工具托管于 GitHub Pages。
+如果觉得任何文章或代码有启发，请点个 Star 支持一下，十分感谢！
+成启亮的博客</description>
+    </item>
+    
+  </channel>
+</rss>
