@@ -1,7 +1,7 @@
 ## Cheng Qiliang's Blog
 Welcome to my blog!
 
-Please click [https://blog.hoperays.me](https://blog.hoperays.me) to enter the site.
+Please click [https://blog.hoperays.me/](https://blog.hoperays.me/) to enter the site.
 
 Powered by [Hugo](https://gohugo.io) & [Coder](https://github.com/luizdepra/hugo-coder).
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cheng Qiliang&#39;s Blog</title>
@@ -6,17 +6,13 @@
     <description>Recent content in Posts on Cheng Qiliang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2019 23:39:16 +0800</lastBuildDate>
-    
-	<atom:link href="https://blog.hoperays.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 31 Jul 2019 23:39:16 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>https://blog.hoperays.me/posts/my-first-post/</link>
+      <link>https://blog.hoperays.me/2019/07/31/my-first-post/</link>
       <pubDate>Wed, 31 Jul 2019 23:39:16 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/posts/my-first-post/</guid>
+      <guid>https://blog.hoperays.me/2019/07/31/my-first-post/</guid>
       <description> My first post
  </description>
     </item>
