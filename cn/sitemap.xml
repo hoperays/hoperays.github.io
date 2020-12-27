@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://blog.hoperays.me/cn/categories/</loc>
-    <lastmod>2019-07-31T23:39:16+08:00</lastmod>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,126 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://blog.hoperays.me/cn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/tags/golang/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/tags/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/tags/golang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/series/golang/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/series/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/series/golang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/categories/golang/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/categories/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/categories/golang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/posts/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/series/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/tags/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/2020/12/27/building-golang-environment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/</loc>
+    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/"
                 />
   </url>
   
@@ -29,36 +149,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://blog.hoperays.me/cn/categories/category1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/posts/</loc>
-    <lastmod>2019-07-31T23:39:16+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/series/</loc>
-    <lastmod>2019-07-31T23:39:16+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/series/"
                 />
   </url>
   
@@ -89,36 +179,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://blog.hoperays.me/cn/tags/tag1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/tags/</loc>
-    <lastmod>2019-07-31T23:39:16+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/</loc>
-    <lastmod>2019-07-31T23:39:16+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/"
                 />
   </url>
   
