@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Cheng Qiliang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes</title>
+      <link>https://blog.hoperays.me/tags/kubernetes/</link>
+      <pubDate>Thu, 31 Dec 2020 01:31:37 +0800</pubDate>
+      
+      <guid>https://blog.hoperays.me/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minikube</title>
+      <link>https://blog.hoperays.me/tags/minikube/</link>
+      <pubDate>Thu, 31 Dec 2020 01:31:37 +0800</pubDate>
+      
+      <guid>https://blog.hoperays.me/tags/minikube/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Golang</title>
       <link>https://blog.hoperays.me/tags/golang/</link>

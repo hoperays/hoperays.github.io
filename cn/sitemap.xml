@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://blog.hoperays.me/cn/categories/</loc>
-    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,141 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://blog.hoperays.me/cn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/tags/kubernetes/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/tags/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/tags/kubernetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/series/kubernetes/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/series/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/series/kubernetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/categories/kubernetes/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/categories/kubernetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/categories/kubernetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/tags/minikube/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/tags/minikube/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/tags/minikube/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/posts/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/series/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/tags/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/2020/12/31/building-local-kubernetes-environment/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/2020/12/31/building-local-kubernetes-environment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/2020/12/31/building-local-kubernetes-environment/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.hoperays.me/cn/</loc>
+    <lastmod>2020-12-31T01:31:37+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.hoperays.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://blog.hoperays.me/cn/"
                 />
   </url>
   
@@ -63,51 +198,6 @@
   </url>
   
   <url>
-    <loc>https://blog.hoperays.me/cn/posts/</loc>
-    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/series/</loc>
-    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/tags/</loc>
-    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/</loc>
     <lastmod>2020-12-27T01:31:37+08:00</lastmod>
     <xhtml:link
@@ -119,21 +209,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.hoperays.me/cn/</loc>
-    <lastmod>2020-12-27T01:31:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.hoperays.me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://blog.hoperays.me/cn/"
                 />
   </url>
   
