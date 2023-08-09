@@ -2,48 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>成启亮的博客</title>
-    <link>https://blog.hoperays.me/cn/</link>
+    <link>https://blog.hoperays.net/cn/</link>
     <description>Recent content on 成启亮的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language>
+    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.net/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创建本地Kubernetes环境</title>
-      <link>https://blog.hoperays.me/cn/2020/12/31/building-local-kubernetes-environment/</link>
+      <link>https://blog.hoperays.net/cn/2020/12/31/building-local-kubernetes-environment/</link>
       <pubDate>Thu, 31 Dec 2020 01:31:37 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/cn/2020/12/31/building-local-kubernetes-environment/</guid>
-      <description>1 2 3 4 5 6 7 8 9 10 11 12  curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl &amp;amp;&amp;amp; \ chmod +x ./kubectl &amp;amp;&amp;amp; \ sudo mv ./kubectl /usr/local/bin/ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 &amp;amp;&amp;amp; \ chmod +x ./minikube &amp;amp;&amp;amp; \ sudo mv ./minikube /usr/local/bin/ minikube start -p minikube1 --kubernetes-version=v1.16.15 --driver=docker curl https://raw.githubusercontent.com/helm/helm/master/scripts/get | bash helm init   上述Kubernetes版本为v1.16.15，具体版本根据实际需要修改即可。
+      <guid>https://blog.hoperays.net/cn/2020/12/31/building-local-kubernetes-environment/</guid>
+      <description> 1 2 3 4 5 6 7 8 9 10 11 12 curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl &amp;amp;&amp;amp; \ chmod +x ./kubectl &amp;amp;&amp;amp; \ sudo mv ./kubectl /usr/local/bin/ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 &amp;amp;&amp;amp; \ chmod +x ./minikube &amp;amp;&amp;amp; \ sudo mv ./minikube /usr/local/bin/ minikube start -p minikube1 --kubernetes-version=v1.16.15 --driver=docker curl https://raw.githubusercontent.com/helm/helm/master/scripts/get | bash helm init 上述Kubernetes版本为v1.16.15，具体版本根据实际需要修改即可。
 参考链接：
- Kubernetes官网 Minikube官网 Helm官网  </description>
+Kubernetes官网 Minikube官网 Helm官网 </description>
     </item>
     
     <item>
       <title>创建Golang环境</title>
-      <link>https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/</link>
+      <link>https://blog.hoperays.net/cn/2020/12/27/building-golang-environment/</link>
       <pubDate>Sun, 27 Dec 2020 01:31:37 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/</guid>
-      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20  curl -o /tmp/go1.15.8.linux-amd64.tar.gz https://dl.google.com/go/go1.15.8.linux-amd64.tar.gz sudo rm -rf /usr/local/go/ &amp;amp;&amp;amp; sudo tar -C /usr/local/ -zxf /tmp/go1.15.8.linux-amd64.tar.gz cat &amp;lt;&amp;lt;&amp;#34;EOF&amp;#34; | tee -a ~/.bashrc # add by chengql start export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.cn,https://goproxy.io,direct # add by chengql end EOF export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.</description>
+      <guid>https://blog.hoperays.net/cn/2020/12/27/building-golang-environment/</guid>
+      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 curl -o /tmp/go1.15.8.linux-amd64.tar.gz https://dl.google.com/go/go1.15.8.linux-amd64.tar.gz sudo rm -rf /usr/local/go/ &amp;amp;&amp;amp; sudo tar -C /usr/local/ -zxf /tmp/go1.15.8.linux-amd64.tar.gz cat &amp;lt;&amp;lt;&amp;#34;EOF&amp;#34; | tee -a ~/.bashrc # add by chengql start export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.cn,https://goproxy.io,direct # add by chengql end EOF export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.</description>
     </item>
     
     <item>
       <title>我的第一篇文章</title>
-      <link>https://blog.hoperays.me/cn/2019/07/31/my-first-post/</link>
+      <link>https://blog.hoperays.net/cn/2019/07/31/my-first-post/</link>
       <pubDate>Wed, 31 Jul 2019 23:39:16 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/cn/2019/07/31/my-first-post/</guid>
-      <description> 我的第一篇文章
- </description>
+      <guid>https://blog.hoperays.net/cn/2019/07/31/my-first-post/</guid>
+      <description>我的第一篇文章</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>https://blog.hoperays.me/cn/about/</link>
+      <link>https://blog.hoperays.net/cn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.hoperays.me/cn/about/</guid>
-      <description>| 关于我 本科软件工程，作码农六年有余，熟悉 OpenStack、Ceph、Kubernetes、Docker、EFK、Prometheus、Zabbix 等开源技术，目前致力于日志、监控、告警相关的后端研发工作。
+      <guid>https://blog.hoperays.net/cn/about/</guid>
+      <description>| 关于我 本科软件工程，作码农九年有余，熟悉 OpenStack、Ceph、Kubernetes、Docker、EFK、Prometheus、Zabbix 等开源技术，目前致力于日志、监控、告警相关的后端研发工作。
 我的邮箱：qiliang.cheng@gmail.com 欢迎发信交流。
 GitHub 图表：
 | 关于网站 此网站为个人博客，基于 Hugo 构建工具托管于 GitHub Pages。

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubernetes on Cheng Qiliang&#39;s Blog</title>
-    <link>https://blog.hoperays.me/categories/kubernetes/</link>
+    <link>https://blog.hoperays.net/categories/kubernetes/</link>
     <description>Recent content in Kubernetes on Cheng Qiliang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.net/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building local kubernetes environment</title>
-      <link>https://blog.hoperays.me/2020/12/31/building-local-kubernetes-environment/</link>
+      <link>https://blog.hoperays.net/2020/12/31/building-local-kubernetes-environment/</link>
       <pubDate>Thu, 31 Dec 2020 01:31:37 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/2020/12/31/building-local-kubernetes-environment/</guid>
-      <description>1 2 3 4 5 6 7 8 9 10 11 12  curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl &amp;amp;&amp;amp; \ chmod +x ./kubectl &amp;amp;&amp;amp; \ sudo mv ./kubectl /usr/local/bin/ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 &amp;amp;&amp;amp; \ chmod +x ./minikube &amp;amp;&amp;amp; \ sudo mv ./minikube /usr/local/bin/ minikube start -p minikube1 --kubernetes-version=v1.16.15 --driver=docker curl https://raw.githubusercontent.com/helm/helm/master/scripts/get | bash helm init   The above kubernetes version is v1.16.15, and the specific version can be modified according to actual needs.</description>
+      <guid>https://blog.hoperays.net/2020/12/31/building-local-kubernetes-environment/</guid>
+      <description>1 2 3 4 5 6 7 8 9 10 11 12 curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl &amp;amp;&amp;amp; \ chmod +x ./kubectl &amp;amp;&amp;amp; \ sudo mv ./kubectl /usr/local/bin/ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 &amp;amp;&amp;amp; \ chmod +x ./minikube &amp;amp;&amp;amp; \ sudo mv ./minikube /usr/local/bin/ minikube start -p minikube1 --kubernetes-version=v1.16.15 --driver=docker curl https://raw.githubusercontent.com/helm/helm/master/scripts/get | bash helm init The above kubernetes version is v1.16.15, and the specific version can be modified according to actual needs.</description>
     </item>
     
   </channel>

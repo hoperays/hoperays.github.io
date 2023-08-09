@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on 成启亮的博客</title>
-    <link>https://blog.hoperays.me/cn/series/golang/</link>
+    <link>https://blog.hoperays.net/cn/series/golang/</link>
     <description>Recent content in Golang on 成启亮的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 27 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/cn/series/golang/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language>
+    <lastBuildDate>Sun, 27 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.net/cn/series/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创建Golang环境</title>
-      <link>https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/</link>
+      <link>https://blog.hoperays.net/cn/2020/12/27/building-golang-environment/</link>
       <pubDate>Sun, 27 Dec 2020 01:31:37 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/cn/2020/12/27/building-golang-environment/</guid>
-      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20  curl -o /tmp/go1.15.8.linux-amd64.tar.gz https://dl.google.com/go/go1.15.8.linux-amd64.tar.gz sudo rm -rf /usr/local/go/ &amp;amp;&amp;amp; sudo tar -C /usr/local/ -zxf /tmp/go1.15.8.linux-amd64.tar.gz cat &amp;lt;&amp;lt;&amp;#34;EOF&amp;#34; | tee -a ~/.bashrc # add by chengql start export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.cn,https://goproxy.io,direct # add by chengql end EOF export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.</description>
+      <guid>https://blog.hoperays.net/cn/2020/12/27/building-golang-environment/</guid>
+      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 curl -o /tmp/go1.15.8.linux-amd64.tar.gz https://dl.google.com/go/go1.15.8.linux-amd64.tar.gz sudo rm -rf /usr/local/go/ &amp;amp;&amp;amp; sudo tar -C /usr/local/ -zxf /tmp/go1.15.8.linux-amd64.tar.gz cat &amp;lt;&amp;lt;&amp;#34;EOF&amp;#34; | tee -a ~/.bashrc # add by chengql start export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.cn,https://goproxy.io,direct # add by chengql end EOF export PATH=$PATH:/usr/local/go/bin export PATH=$PATH:$(go env GOPATH)/bin export GO111MODULE=on export GOPROXY=https://goproxy.</description>
     </item>
     
   </channel>

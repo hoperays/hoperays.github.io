@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Cheng Qiliang&#39;s Blog</title>
-    <link>https://blog.hoperays.me/series/</link>
+    <link>https://blog.hoperays.net/series/</link>
     <description>Recent content in Series on Cheng Qiliang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.me/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 01:31:37 +0800</lastBuildDate><atom:link href="https://blog.hoperays.net/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes</title>
-      <link>https://blog.hoperays.me/series/kubernetes/</link>
+      <link>https://blog.hoperays.net/series/kubernetes/</link>
       <pubDate>Thu, 31 Dec 2020 01:31:37 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/series/kubernetes/</guid>
+      <guid>https://blog.hoperays.net/series/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://blog.hoperays.me/series/golang/</link>
+      <link>https://blog.hoperays.net/series/golang/</link>
       <pubDate>Sun, 27 Dec 2020 01:31:37 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/series/golang/</guid>
+      <guid>https://blog.hoperays.net/series/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Series1</title>
-      <link>https://blog.hoperays.me/series/series1/</link>
+      <link>https://blog.hoperays.net/series/series1/</link>
       <pubDate>Wed, 31 Jul 2019 23:39:16 +0800</pubDate>
       
-      <guid>https://blog.hoperays.me/series/series1/</guid>
+      <guid>https://blog.hoperays.net/series/series1/</guid>
       <description></description>
     </item>
     
